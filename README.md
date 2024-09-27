@@ -9,6 +9,7 @@ To support the formulation we make use of a graph with  2n+2  nodes. Nodes  s  a
 
 Considering a biker that traverses the cyclepath from  s  to  t , the model determines in which nodes to install the charging stations so that the maximum energy consumption between two consecutive charging stations is no more than  "delta"  and minimizes the overall cost.
 The code returns the total installation cost and plots a graph with the optimal solution Highlighted.
+
 In the case of the image above: 
 
 ![download](https://github.com/user-attachments/assets/d4aa7609-4e5d-41ce-98f6-9ec06b02a558)
